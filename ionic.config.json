@@ -1,0 +1,8 @@
+{
+  "name": "ionic_tutorial",
+  "app_id": "4087eb3b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
